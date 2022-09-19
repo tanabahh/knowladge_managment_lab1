@@ -1,0 +1,13 @@
+ninja
+yacs
+cython
+matplotlib
+tqdm~=4.64.1
+coloredlogs~=15.0.1
+tensorboardX~=2.5.1
+torch~=1.12.1
+numpy~=1.23.3
+opencv-python~=4.6.0.66
+easydict~=1.9
+pycocotools~=2.0.5
+torchvision~=0.13.1
